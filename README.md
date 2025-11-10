@@ -50,6 +50,7 @@ Create the file hello.txt using echo and redirection
 Copy the file hello.txt into the file hello1.txt
 
 <img width="672" height="108" alt="image" src="https://github.com/user-attachments/assets/048a50bd-f267-4c7c-a58c-efb6a596b7ea" />
+
 ## COMMAND AND OUTPUT
 
 Remove the file hello1.txt
